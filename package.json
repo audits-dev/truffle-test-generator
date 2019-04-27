@@ -1,7 +1,7 @@
 {
   "name": "@audits/truffle-test-generator",
   "author": "Thomas Hodges (thomas@audits.dev)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A test file generator for the Truffle framework",
   "bin": {
     "ttg": "./testGen.js"
