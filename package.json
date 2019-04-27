@@ -1,0 +1,25 @@
+{
+  "name": "@audits/truffle-test-generator",
+  "author": "Thomas Hodges (thomas@audits.dev)",
+  "version": "1.0.0",
+  "description": "A test file generator for the Truffle framework",
+  "bin": {
+    "ttg": "./testGen.js"
+  },
+  "keywords": [
+    "solidity",
+    "truffle",
+    "test",
+    "generator",
+    "ethereum"
+  ],
+  "homepage": "https://audits.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audits-dev/truffle-test-generator.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
